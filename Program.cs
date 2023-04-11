@@ -8,6 +8,6 @@
 
 
     Console.WriteLine("Hello, "+ userInputName + " ! " + "You are " + userInputAge + " year");
-   //  Console.WriteLine ( $"Hello, {userInputName} {userInputAge}");
+    Console.WriteLine ( $"Hello, {userInputName} {userInputAge}");
     }
 }
